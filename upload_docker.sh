@@ -11,6 +11,7 @@ dockerpath=ml_project
 # Step 2:  
 # Authenticate & tag
 echo "Docker ID and Image: $dockerpath"
+docker login &&\
 docker tag $dockerpath:latest wangzuowen/$dockerpath:latest
 
 # Step 3:
