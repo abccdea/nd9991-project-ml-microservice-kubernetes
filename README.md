@@ -1,6 +1,5 @@
 [![CircleCI](https://circleci.com/gh/wangzuowen/nd9991-project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/AyaSerry12/Udacity_DevopsMicroservices)
 
-
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
